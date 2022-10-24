@@ -1,9 +1,9 @@
 server:
-  port: 8082
+  port: 8081
 
 spring:
   rabbitmq:
     host: localhost
-      port: 5672
-      username: root
-      password: root
+    port: 5672
+    username: guest
+    password: guest
